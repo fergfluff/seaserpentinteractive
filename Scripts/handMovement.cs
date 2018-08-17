@@ -20,7 +20,7 @@ public class handMovement : MonoBehaviour {
 
 	//Values
 	public float speed;
-	public float distance = 50;
+	public float distance = 90;
 	public float alphaRate = 0.007f;
 	private float originalY;
 
